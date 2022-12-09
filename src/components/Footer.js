@@ -6,9 +6,6 @@ function Footer() {
   return (
     <div>
       <div className="footer">
-        <a className="" href="https://github.com/robin025">
-          <GitHubIcon className="github__logo" />
-        </a>
         <h3>Made By Vivek </h3>
         <p>
           <strong>Made Using React</strong>
